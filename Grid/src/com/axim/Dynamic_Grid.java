@@ -8,7 +8,6 @@ public class Dynamic_Grid {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Enter the number of words you are going to Enter");
-		System.out.println("ok");
 		int n = s.nextInt();
 		System.out.println("Enter the words");
 		List<String> l = new ArrayList<String>();
